@@ -1,2 +1,2 @@
 # Other-Coding-Tasks
-Little tasks to be used as references
+Little tasks that can be used as references
