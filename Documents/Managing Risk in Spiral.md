@@ -1,4 +1,0 @@
-# How Risk is Managed in Spiral
-The spiral model is more like that of the incremental model, but risk analysis plays more of an important part, being that it’s a crucial phase in the model, after the planning phase. In this, a process is carried out to identify the risks and to find any alternate solutions, with a prototype being developed at the end of this phase. When any risk is found, developers would suggest solutions and these are implemented, this in turn helps the project with eliminating any risk earlier for a more stable development and product.
-
-This lifecycle helps with any higher risk, bigger and/or costly projects where risk could be very prominent and the iterative nature of the spiral allows the project to head back to that phase, allowing for more risk assessment and better solutions to be implemented, allowing for improvement and change within the project.
