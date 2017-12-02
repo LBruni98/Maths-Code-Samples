@@ -26,7 +26,7 @@ int main () {
 }
 ```
 
-#### Shape Co-ordinate
+#### Shape Co-ordinates
 ```cpp
 #include <iostream>
 
