@@ -1,4 +1,4 @@
-# Math Samples
+# Math Code Samples
 
 The following are done in C++.
 
